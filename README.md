@@ -1,4 +1,4 @@
-# Hello I'm Afzal ([@Afzal-04](https://skmahammadafzal.netlify.app/))
+# Hello I'm Afzal ([@AfzalVE](https://skmahammadafzal.netlify.app/))
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
  
@@ -42,11 +42,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skafzal-04&show_icons=true&locale=en&layout=compact" alt="skafzal-04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afzalve&show_icons=true&locale=en&layout=compact" alt="afzalve" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skafzal-04&show_icons=true&locale=en" alt="skafzal-04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzalve&show_icons=true&locale=en" alt="afzalve" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skafzal-04&" alt="skafzal-04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalve&" alt="afzalve" /></p>
 Portfolio | Sk Mahammad Afzal
 Welcome to Afzal's Portfolio. Full-Stack Web Developer
  
